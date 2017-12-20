@@ -81,3 +81,5 @@ print(float(True), float(False))
 
 # Int and string to Float
 print(float(98), float('99'), float('98.6'), float('-1.5'), float('1.0e4'))
+
+# test if this works
